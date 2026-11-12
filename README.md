@@ -1,6 +1,6 @@
 # Ayush Deore
 
-Backend engineer building distributed systems in Java and Spring Boot. Currently exploring event-driven architecture and modern Java.
+Software engineer who enjoys building reliable backend systems and learning new technologies
 
 [LinkedIn](https://www.linkedin.com/in/ayushdeore23) · [Email](mailto:deoreayush555@gmail.com) · [Portfolio](https://ayushd.me)
 
